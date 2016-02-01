@@ -20,8 +20,7 @@
 15. Skriv en funktion som räknar upp strängen '(10*3.14 + 2.3)/5'.
 16. Skriv en funktion som returnera slumpmässig ett tal mellan 1 och 6.
 17. Skriv en funktion som simulera AND or (&&) operatör med bara if-statser. 
-       Dvs: true AND true  = true
-            true AND false = false
+     Dvs: true AND true  = true eller, true AND false = false.
 18. Skriv en funktion som räknar upp den största värden ('max') av alla tal i en listan.
 19. Skriv en funktion som räknar upp den minsta värden ('min') av alla tal i en listan.
 
