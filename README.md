@@ -30,10 +30,12 @@
 1. Skapa en variabel som innehåller alla små bokstäver i alfabet genom att använda en 'range' dvs (1..10).
 2. Della upp en sträng som t.ex 'RubyMine' i en lista av enskilda bokstäver.
 3. Omvandla en lista av bokstäver i en sträng.
-4. Skriv en funktion 'histogram' som tar en lista som argument och skriver ut en antal stjärnor (*) för varje tal i listan. T.ex histogram([4,9,7]) ger:
+4. Skriv en funktion 'histogram' som tar en lista som argument och skriver ut en antal stjärnor (\*) för varje tal i listan. T.ex histogram([4,9,7]) ger:
+```Ruby
 ****
 *********
-******* 
+*******
+```
 5. Använd Caesar cipher och följande nyckel (ROT-13)
 ```Ruby
 key = {'a':'n', 'b':'o', 'c':'p', 'd':'q', 'e':'r', 'f':'s', 'g':'t', 'h':'u', 'i':'v', 'j':'w', 'k':'x', 'l':'y', 'm':'z', 'n':'a', 'o':'b', 'p':'c', 'q':'d', 'r':'e', 's':'f', 't':'g', 'u':'h', 'v':'i', 'w':'j', 'x':'k','y':'l', 'z':'m', 'A':'N', 'B':'O', 'C':'P', 'D':'Q', 'E':'R', 'F':'S', 'G':'T', 'H':'U', 'I':'V', 'J':'W', 'K':'X', 'L':'Y', 'M':'Z', 'N':'A', 'O':'B', 'P':'C', 'Q':'D', 'R':'E', 'S':'F', 'T':'G', 'U':'H', 'V':'I', 'W':'J', 'X':'K', 'Y':'L', 'Z':'M'}
